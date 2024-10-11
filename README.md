@@ -1,7 +1,7 @@
 # 🎬 BookMyShow-StreamAnalysis
 
 ## 📋 Overview
-This repository demonstrates a real-time event streaming and analytics pipeline for the **BookMyShow** platform. The pipeline leverages **Azure services** such as **Event Hub**, **Stream Analytics**, and **Synapse Analytics** to process real-time booking and payment events. It performs window-based aggregations, joins bookings and payments, and stores the transformed data in **Synapse Analytics** for reporting and analysis.
+This Project demonstrates a real-time event streaming and analytics pipeline for the **BookMyShow** platform. The pipeline leverages **Azure services** such as **Event Hub**, **Stream Analytics**, and **Synapse Analytics** to process real-time booking and payment events. It performs window-based aggregations, joins bookings and payments, and stores the transformed data in **Synapse Analytics** for reporting and analysis.
 
 The project simulates real-time booking and payment events, processes them using **Azure Stream Analytics**, and provides actionable insights via **Azure Synapse**.
 
